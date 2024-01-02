@@ -1,4 +1,4 @@
-# bksys-operations-rule-ms
+# bksys_operations_rule_ms
 
 Operations Rule Micro Service
 
@@ -15,7 +15,7 @@ poetry install && poetry shell
 
 ### Run application for development
 ```
-uvicorn bksys-operations-rule-ms:app --reload --port 8081
+uvicorn bksys_operations_rule_ms:app --reload --port 8081
 ```
 
 ## Lint project
